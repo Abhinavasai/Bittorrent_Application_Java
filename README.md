@@ -1,18 +1,5 @@
 **Peer-to-Peer File Sharing System**
 
-**Project Contributors:**
-
-JAIHARISHAN ARUNAGIRI VEERAKUMAR
-
-    Initial Setup : TCP Connections and Send/Receive Handshakes between the peers, FileHandling, Piece Handling
-
-ABHINAVA SAI TIRUNAGARI
-
-    Worked on the Bitfields Handling, Sending the Intrested Messages, Send/Receive Request and Have messages
-
-RAHUL TALARI
-
-    Worked on Choking, Unchoking, Optimistic Choke Algorithm, Send/Receive Choke and unchoke messages and Logger
 
 ****CHANGE THE FILE PATH OF DESIRED FILE IN FILEMANAGER****
 
